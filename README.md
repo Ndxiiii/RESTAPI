@@ -1,4 +1,4 @@
-# Backend REST APIs - FSD Practical 5
+# Backend REST APIs - FSD Practical 5/6
 
 ## Objective
 To create RESTful APIs for Products, Users, Cart, and Orders using Node.js and Express with proper middleware, validation, and server-side error handling.
@@ -24,7 +24,7 @@ Backend/
 ## Installation Steps
 
 1. Clone repository:
-git clone []
+git clone [https://github.com/Ndxiiii/RESTAPI.git]
 
 
 2. Install dependencies:

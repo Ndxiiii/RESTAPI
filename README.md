@@ -85,8 +85,11 @@ All endpoints tested successfully using Postman.
 Successfully implemented REST APIs with middleware, validation, error handling and tested using Postman.
 
 ## Author
-Nidhi Dube 
+Nidhi Dube
+
 BSc. Data Science
+
+
 FSD Practical 5/6
 
 
